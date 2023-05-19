@@ -2,7 +2,7 @@
 0.0.0.0 events3alt.adcolony.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 app-measurement.com
-
+0.0.0.0 rs.mail.ru
 0.0.0.0 analytics.google.com
 0.0.0.0 adm.hotjar.com
 0.0.0.0 identify.hotjar.com
