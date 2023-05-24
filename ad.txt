@@ -1,3 +1,6 @@
+
+0.0.0.0 amc.yandex.ru
+
 0.0.0.0 hbe199.hybrid.ai
 0.0.0.0 hybrid.ai
 0.0.0.0 dekkcewpqrep.com
